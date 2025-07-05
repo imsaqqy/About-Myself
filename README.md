@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saqqy56
-- 👀 I’m interested in web development
+- 👀 I’m interested in web front-end development and data analyst.
 - 🌱 I’m currently learning BTECH in computer science and engineering.
 - 💞️ I’m looking to collaborate on projects internship and many more.
 - 📫 How to reach me ?
